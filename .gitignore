@@ -1,0 +1,9 @@
+# Ignora tudo na raiz do projeto...
+/*
+
+# ...menos o que vai para a entrega
+!/.gitignore
+!/projeto_penalti.ipynb
+!/apresentacao.pdf
+!/requirements.txt
+!/dados/
